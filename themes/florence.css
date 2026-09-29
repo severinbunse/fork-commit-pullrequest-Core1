@@ -1,7 +1,9 @@
 html {
 }
 
-body {
+body {font-family: "Courier New", monospace;
+   
+    background-color: #d8ebf6;
 }
 
 ::selection {

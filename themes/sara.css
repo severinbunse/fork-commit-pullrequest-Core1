@@ -1,25 +1,36 @@
+@import url("https://use.typekit.net/uhr8zod.css");
+
 html {
 }
 
-body {
+body { background: #000000;
+    
 }
 
 ::selection {
 }
 
-#theme-switcher {
+#theme-switcher { padding: 5px;
 }
 
-label {
+label { color: #E41F7B; font-weight: bold; letter-spacing: 20px;
+    font-size: 25px;
 }
 
-select {
+select { color: #86003C; padding: 8px; border-radius: 35px; background: #FF8BA0;
 }
 
 #content {
 }
 
-h1 {
+h1 { color: #FF8BA0; text-align: center; 
+    border-left: 10px dotted #E41F7B; 
+    border-right: 10px dotted #E41F7B; padding: 50px; 
+    border-radius: 35px; font-family: "laima", serif; font-weight: 700;
+font-style: normal;
+font-size: 90px; letter-spacing: -7px; 
+line-height: 65px;
+text-align: justify;
 }
 
 h1::first-letter {
@@ -28,10 +39,16 @@ h1::first-letter {
 time {
 }
 
-p {
+p { color: #E41F7B; font-family: "laima", serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+line-height: 45px;
+margin: 60px; text-align: center;
 }
 
-ol {
+ol {color: #FF8BA0; line-height: 50px; font-size: 20px; margin: 30px;
+    text-align: justify; padding: 50px;
 }
 
 li {

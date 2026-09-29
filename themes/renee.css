@@ -41,6 +41,7 @@ time {
 p {
     color: rgb(108, 179, 135);
     line-height: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 ol {
@@ -48,6 +49,7 @@ ol {
     line-height: 20px;
     padding-top: 30px;
     padding-bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 li {
